@@ -1,5 +1,7 @@
 package Transactions;
 
+import java.lang.IllegalArgumentException;
+
 public class Entrada extends Transacoes {
 	String[] conf = {"Serviço", "Salário"};
 	

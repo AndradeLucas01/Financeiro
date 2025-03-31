@@ -1,4 +1,4 @@
-package Transactions;
+package Entidade.Transactions;
 
 public class Despesa extends Transacoes {
 	String[] conf = {"Essencial", "Supérfluo"};

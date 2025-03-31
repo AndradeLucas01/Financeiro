@@ -1,4 +1,4 @@
-package Main;
+package View.Main;
 
 import Repositories.Repositorio;
 import Transactions.Despesa;

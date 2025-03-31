@@ -1,14 +1,14 @@
-package Repositories;
+package Repositorios;
 
 import Transactions.Transacoes;
 import Users.Pessoa;
 import java.util.ArrayList;
 
-public class Repositorio {
+public class TransacoesRepository {
 
     private final ArrayList<Transacoes> transacoes;
 
-    public Repositorio() {
+    public TransacoesRepository() {
         this.transacoes = new ArrayList<>();
     }
 
